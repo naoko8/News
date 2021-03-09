@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Profect is for showing News from 3 web sites. 
 1) Business news
-2) WallStreen news
+2) WallStreet news
 3) Slideshow from News web page same as carousel.  
 4) Registration form
 5) About page 
